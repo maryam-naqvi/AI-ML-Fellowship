@@ -4,3 +4,5 @@ This repository serves as a comprehensive collection of my weekly tasks, coding 
 
 ## 📂 Repository Structure
 * **Week 1:** Python Basics, Modular Programming, and OOP.
+
+Fellowhsip Peer Project 1 repo link: https://github.com/maryam-naqvi/Peer-Project-1-Career-Scout.git
